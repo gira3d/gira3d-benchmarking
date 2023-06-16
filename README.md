@@ -5,6 +5,11 @@ Currently supports:
 1. Octomap [1]: Wrapper over `ColorOcTree` class.
 2. NDTmap [2]: Wrapper over a custom NDT Cell that includes color in each cell.
 
+Get this repository by:
+```
+git clone git@github.com:gira3d/gira3d-benchmarking.git --recursive
+```
+
 ## Dependencies
 This meta-package assumes you are in a virtual environment set up via the meta-package `gira3d-reconstruction`.
 If you have not set this up yet, please head to https://github.com/gira3d/gira3d-reconstruction and set up
