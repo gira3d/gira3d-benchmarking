@@ -1,0 +1,15 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:gira3d/gira3d-benchmarking-docs.git
+[submodule "dry/src/ndt_map"]
+	path = dry/src/ndt_map
+	url = git@github.com:gira3d/ndt_map_colcon.git
+[submodule "dry/src/octomap"]
+	path = dry/src/octomap
+	url = git@github.com:kshitijgoel007/octomap.git
+[submodule "wet/src/ndt_map_py"]
+	path = wet/src/ndt_map_py
+	url = git@github.com:gira3d/ndt_map_py.git
+[submodule "wet/src/octomap_py"]
+	path = wet/src/octomap_py
+	url = git@github.com:gira3d/octomap_py.git
